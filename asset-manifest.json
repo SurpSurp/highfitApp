@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/highfitApp/static/css/main.5c7cb6ee.chunk.css",
-    "main.js": "/highfitApp/static/js/main.98a98da3.chunk.js",
-    "main.js.map": "/highfitApp/static/js/main.98a98da3.chunk.js.map",
+    "main.js": "/highfitApp/static/js/main.959dfe0f.chunk.js",
+    "main.js.map": "/highfitApp/static/js/main.959dfe0f.chunk.js.map",
     "runtime-main.js": "/highfitApp/static/js/runtime-main.aa98edcc.js",
     "runtime-main.js.map": "/highfitApp/static/js/runtime-main.aa98edcc.js.map",
     "static/js/2.dcdf778e.chunk.js": "/highfitApp/static/js/2.dcdf778e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.aa98edcc.js",
     "static/js/2.dcdf778e.chunk.js",
     "static/css/main.5c7cb6ee.chunk.css",
-    "static/js/main.98a98da3.chunk.js"
+    "static/js/main.959dfe0f.chunk.js"
   ]
 }
