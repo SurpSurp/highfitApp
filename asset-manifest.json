@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/highfitApp/static/css/main.5c7cb6ee.chunk.css",
-    "main.js": "/highfitApp/static/js/main.da9dee8a.chunk.js",
-    "main.js.map": "/highfitApp/static/js/main.da9dee8a.chunk.js.map",
-    "runtime-main.js": "/highfitApp/static/js/runtime-main.aa98edcc.js",
-    "runtime-main.js.map": "/highfitApp/static/js/runtime-main.aa98edcc.js.map",
-    "static/js/2.dcdf778e.chunk.js": "/highfitApp/static/js/2.dcdf778e.chunk.js",
-    "static/js/2.dcdf778e.chunk.js.map": "/highfitApp/static/js/2.dcdf778e.chunk.js.map",
-    "static/js/3.c1019400.chunk.js": "/highfitApp/static/js/3.c1019400.chunk.js",
-    "static/js/3.c1019400.chunk.js.map": "/highfitApp/static/js/3.c1019400.chunk.js.map",
+    "main.js": "/highfitApp/static/js/main.b427efff.chunk.js",
+    "main.js.map": "/highfitApp/static/js/main.b427efff.chunk.js.map",
+    "runtime-main.js": "/highfitApp/static/js/runtime-main.ffd860db.js",
+    "runtime-main.js.map": "/highfitApp/static/js/runtime-main.ffd860db.js.map",
+    "static/js/2.b908f208.chunk.js": "/highfitApp/static/js/2.b908f208.chunk.js",
+    "static/js/2.b908f208.chunk.js.map": "/highfitApp/static/js/2.b908f208.chunk.js.map",
+    "static/js/3.d6dc64e4.chunk.js": "/highfitApp/static/js/3.d6dc64e4.chunk.js",
+    "static/js/3.d6dc64e4.chunk.js.map": "/highfitApp/static/js/3.d6dc64e4.chunk.js.map",
     "index.html": "/highfitApp/index.html",
     "static/css/main.5c7cb6ee.chunk.css.map": "/highfitApp/static/css/main.5c7cb6ee.chunk.css.map",
-    "static/js/2.dcdf778e.chunk.js.LICENSE.txt": "/highfitApp/static/js/2.dcdf778e.chunk.js.LICENSE.txt",
+    "static/js/2.b908f208.chunk.js.LICENSE.txt": "/highfitApp/static/js/2.b908f208.chunk.js.LICENSE.txt",
     "static/media/logo7.073921e0.png": "/highfitApp/static/media/logo7.073921e0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa98edcc.js",
-    "static/js/2.dcdf778e.chunk.js",
+    "static/js/runtime-main.ffd860db.js",
+    "static/js/2.b908f208.chunk.js",
     "static/css/main.5c7cb6ee.chunk.css",
-    "static/js/main.da9dee8a.chunk.js"
+    "static/js/main.b427efff.chunk.js"
   ]
 }
